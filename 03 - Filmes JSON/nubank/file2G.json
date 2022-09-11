@@ -1,0 +1,42 @@
+{
+    "infos": [
+        {
+            "nome": "Carlos Eduardo Vieira",
+            "email": "carlosportalsocial@gmail.com",
+            "hobbies" : [
+                { "hobbie": "Ler" },
+                { "hobbie": "Programar" }
+            ],
+            "progenitores" : [
+                { "mãe": "Geiza Teixeira Simões Vieira" },
+                { "pai": "Antonio Carlos Vieira" },
+            ],
+            "dataNacimento": { 
+                "data": "11 de setembro de 1982",  
+                "cidade": "São Paulo",
+                "uf": "SP",
+                "pais": "Brasil"
+            }
+        },
+
+        {
+            "nome": "Dandara Fonseca Vieira",
+            "email": "dandara@teste.com.br",
+            "hobbies" : [
+                { "hobbie": "Brincar" },
+                { "hobbie": "Jogar" }
+            ],
+            "progenitores" : [
+                { "mãe": "Eliana Rocha da Fonseca" },
+                { "pai": "Carlos Eduardo Vieira" },
+            ],
+            "dataNacimento": { 
+                "data": "13 de outubro de 2008",  
+                "cidade": "São Paulo",
+                "uf": "SP",
+                "pais": "Brasil"
+            }
+        }
+        
+    ]
+}
